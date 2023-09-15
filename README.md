@@ -76,10 +76,7 @@
 - Optional [install Bot Telegram Xolpanel](https://github.com/givpn/AutoScriptXray/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
   
 # Menu
-![Service Status](https://raw.githubusercontent.com/RyukillerZ/scriptvps/main/image/menu.png)
-
-# Service Status
-![Service Status](https://raw.githubusercontent.com/RyukillerZ/scriptvps/main/image/service.png)
+![Service Status](https://raw.githubusercontent.com/RyukillerZ/scriptvps/main/image/menu.jpg)
 
 # [Step Install]
 - Step 1 for (debian) please update first
