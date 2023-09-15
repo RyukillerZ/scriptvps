@@ -92,15 +92,9 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ```
 
 # Telegram
-[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/givpn/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/givpn_grup/)
+[![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/nemoecii/)
 
-# Buy me a coffee
-[![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-yellow)](https://paypal.me/givpn11)
-[![QRIS donate button](https://img.shields.io/badge/Donate-QRIS-red)](https://raw.githubusercontent.com/RyukillerZ/scriptvps/main/image/qris-givpn.jpg)
-[![Bitcoin donate button](https://img.shields.io/badge/Donate-Bitcoin-orange)](https://www.blockchain.com/explorer/addresses/btc/3BE1deCJcuykuTHMzmrmNYgN51E24Hix8i)
-[![Ethereum donate button](https://img.shields.io/badge/Donate-Ethereum-blue)](https://www.blockchain.com/explorer/addresses/eth/0x3eb09df9a72e8e333e202116ff3eb348b3ebf554)
-<!-- <a href="https://www.digitalocean.com/?refcode=8a474003bf18&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a> -->
+
 
 # ATTENTION (MUST READ) CAREFULLY
 - PROHIBITED FOR SALE BECAUSE I GET FREE FROM THE INTERNET
@@ -121,16 +115,3 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
 | <img alt="" src="https://icons.duckduckgo.com/ip3/103.150.117.25.ico" height="13"> [Biznet](http://103.150.117.25:81) | 🟩 Up | [biznet.yml](https://github.com/givpn/server_status/commits/HEAD/history/biznet.yml) | <details><summary><img alt="Response time graph" src="https://github.com/givpn/server_status/blob/gh-pages/graphs/biznet/response-time-week.png" height="20"> 515ms</summary><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="Response time 515" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fresponse-time.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="24-hour response time 515" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fresponse-time-day.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="7-day response time 515" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fresponse-time-week.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="30-day response time 515" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fresponse-time-month.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="1-year response time 515" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://status.givpn.my.id/history/biznet.yml">69.94%</a></summary><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="All-time uptime 69.94%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fuptime.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="24-hour uptime 69.94%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fuptime-day.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="7-day uptime 69.94%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fuptime-week.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="30-day uptime 69.94%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fuptime-month.json"></a><br><a href="https://status.givpn.my.id/history/biznet.yml"><img alt="1-year uptime 69.94%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgivpn%2Fserver_status%2FHEAD%2Fapi%2Fbiznet%2Fuptime-year.json"></a></details>
-
-<!--end: status pages-->
-
-[**Visit our status website →**](https://status.givpn.my.id)
-
-# [NOTE] not an expert just a hobbyist
-
-<p align="center">
-<a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" style="max-width:200%;">
-<p align="center">
-  <a><img src="https://img.shields.io/badge/givpn-AutoScriptXray%202023-blue" style="max-width:200%;">
-
-  
