@@ -70,14 +70,6 @@ dmon="$(vnstat -i eth0 -m | grep "`date +"%b '%y"`" | awk '{print $3" "substr ($
 umon="$(vnstat -i eth0 -m | grep "`date +"%b '%y"`" | awk '{print $6" "substr ($7, 1, 1)}')"
 tmon="$(vnstat -i eth0 -m | grep "`date +"%b '%y"`" | awk '{print $9" "substr ($10, 1, 1)}')"
 
-# // nginx status
-nginx=$( systemctl status nginx | grep Active | awk '{print $3}' | sed 's/(//g' | sed 's/)//g' )
-if [[ $nginx == "running" ]]; then
-    status_nginx="${GREEN}ON${NC}"
-else
-    status_nginx="${RED}OFF${NC}"
-fi
-
 # // xray status
 xray=$( systemctl status xray | grep Active | awk '{print $3}' | sed 's/(//g' | sed 's/)//g' )
 if [[ $xray == "running" ]]; then
@@ -121,7 +113,7 @@ echo -e "  System Uptime        : $uptime"
 echo -e "  Ip Vps/Address       : $IPVPS"
 echo -e "  Domain Name          : $domain\e[0m"
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
-echo -e "     [ XRAY-CORE${NC} : ${status_xray} ]   [ NGINX${NC} : ${status_nginx} ]"
+echo -e "   		[ XRAY-CORE${NC} : ${status_xray} ]   "
 echo -e "\e[36m╘════════════════════════════════════════════╛\033[0m"
 echo -e "            \033[1;37mAutoScript BY TIM3VPN\033[0m"
 echo -e "\e[36m╒════════════════════════════════════════════╕\033[0m"
